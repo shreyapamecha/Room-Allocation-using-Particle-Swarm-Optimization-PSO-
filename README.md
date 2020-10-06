@@ -28,4 +28,7 @@ Then, in every iteration (according to the algorithm):
   10. Calculate the fitness value
   11. Update Pbest, Gbest and Gbest_list
   
-In every epoch/iteration, save the Gbest and store it in an excel sheet at the end. This excel sheet can be imported in MATLAB workspace and an animated video can be formed displaying the best room allotment at every iteration. 
+In every epoch/iteration, save the Gbest and store it in an excel sheet at the end. This excel sheet can be imported in MATLAB workspace and an animated video (Animated_Video.m) can be formed displaying the best room allotment at every iteration. 
+
+Edited Video Link: https://www.youtube.com/watch?v=cKugrU2OMSQ&feature=youtu.be
+
