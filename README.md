@@ -12,7 +12,7 @@ Constraints to be satisfied:
 This is an optimization problem and I have tried using PSO to solve this. 
 The cost function chosen is the summation of all the preferences of the rooms that have been allotted to the students (boys/girls). 
 
-'Code.py'
+'Assignment2_ShreyaPamecha.py'
 
 Initially, take 100 particles with position and velocity vector both of size (100,1) and then randomly assigned rooms for all the students ('positions' in terms of PSO) for all the particles such that everybody gets a room. Initialize the velocities and decipher the fitness value/cost function for all the particles. Now, sort the particles in ascending order on the basis of their cost function. Also, Initialize Pbest (Personal Best), Gbest (Group Best) and Gbest_list.
 Then, in every iteration (according to the algorithm):
